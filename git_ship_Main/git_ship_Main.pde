@@ -17,6 +17,11 @@ boolean redAlert = false; //turns on red alert
 
 // End of variables to mess with in Basic Training
 
+
+//RACIAL SLURSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+
+// Kyle is a big dum stupid doo dood poo poo head hsturopid poo hed
+
 //declare all the things
 float speed = 0;
 float drift;
