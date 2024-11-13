@@ -1,5 +1,7 @@
 // Here's where we'll put all the variables to mess with
 
+// I am de captain now
+
 //crew roster
 String pilot = "Prof Kit";
 String copilot = "";
